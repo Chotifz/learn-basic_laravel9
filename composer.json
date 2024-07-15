@@ -1,0 +1,15 @@
+{
+    "name": "choti/learn-basic_laravel9",
+    "autoload": {
+        "psr-4": {
+            "Choti\\LearnBasicLaravel9\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Chotifz",
+            "email": "chotife@gmail.com"
+        }
+    ],
+    "require": {}
+}
